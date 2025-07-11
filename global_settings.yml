@@ -1,6 +1,6 @@
 object_type: global_settings
 overrides:
     "query.cache.eviction.entryAge": 0
-    "query.cache.eviction.entryAge": true
+    "xmla.auth.token.enabled": true
     "xmla.discover.properties.daxdialect": tabular
     "query.result.max_rows": 300000
